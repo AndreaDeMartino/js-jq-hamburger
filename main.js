@@ -33,3 +33,16 @@ close.click( function() {
 //   hamburgerMenu.css('display','none')
 // }
 // )
+
+//  *** Soluzione 3 (Fade) ***
+
+// hamburger.click( function() {
+//   console.log('Click Hamburger');
+//   hamburgerMenu.fadeIn();
+// }
+// )
+
+// close.click( function() {
+//   console.log('Click close');
+//   hamburgerMenu.fadeOut();
+// })
