@@ -46,3 +46,14 @@ close.click( function() {
 //   console.log('Click close');
 //   hamburgerMenu.fadeOut();
 // })
+
+
+// SORRY FOR THIS BONUS..
+logo = $('img');
+
+logo.click( function() {
+  console.log('Smanettone...');
+  
+  logo.attr('src','https://www.techid.it/wp-content/uploads/2018/01/Pornhub_logo-white.png')
+}
+)
